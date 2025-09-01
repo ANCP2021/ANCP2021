@@ -6,13 +6,13 @@
 ## Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
+  <a href="https://www.linkedin.com/in/alexander-nemecek/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:ajn98@case.edu">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://your-website.com" target="_blank">
+  <a href="https://ancp2021.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website">
   </a>
 </div>
@@ -57,18 +57,15 @@
 
 ## GitHub Contributions
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ANCP2021&theme=radical&hide_border=true&background=0D1117&title=GitHub%20Streak&title_color=4A90E2&text_color=FFFFFF&ring=4A90E2&fire=4A90E2&currStreakNum=4A90E2&currStreakLabel=FFFFFF&sideNums=4A90E2&sideLabels=FFFFFF&dates=4A4A4A" alt="GitHub Streak">
 </div>
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ANCP2021&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=4A90E2&text_color=FFFFFF&icon_color=4A90E2&title=GitHub%20Statistics" alt="GitHub Stats">
 </div>
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ANCP2021&theme=react-dark&hide_border=true&bg_color=0D1117&color=4A90E2&line=4A90E2&point=FFFFFF&title=Contribution%20Activity" alt="Contribution Graph">
 </div>
 
-<div align="center">
-  <img src="https://github.com/ANCP2021/ANCP2021/blob/output/github-snake-custom.svg" alt="GitHub Snake">
-</div>
