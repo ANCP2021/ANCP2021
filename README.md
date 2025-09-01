@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.vercel.app/?lines=Hi there,+I'm+Alex!;Nice to meet you!;Welcome+to+my+GitHub!;&center=true&size=27&color=4A90E2">
+ <img src="https://readme-typing-svg.vercel.app/?lines=Hi%20there,%20I'm%20Alex!;Nice%20to%20meet%20you!;Welcome%20to%20my%20GitHub!&center=true&size=27&color=4A90E2">
 </div>
 
 ## Connect With Me
