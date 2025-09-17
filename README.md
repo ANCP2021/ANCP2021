@@ -5,7 +5,7 @@
 
 ## Connect With Me
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/alexander-nemecek/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -20,7 +20,7 @@
 ## Tech Stack
 
 ### Languages
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
@@ -31,7 +31,7 @@
 </div>
 
 ### AI/ML
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
   <img src="https://img.shields.io/badge/Hugging_Face-000000?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face">
@@ -39,7 +39,7 @@
 </div>
 
 ### Tools & Platforms
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
@@ -50,7 +50,7 @@
 </div>
 
 ### Data Analysis
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
 </div>
@@ -59,13 +59,5 @@
 
 <div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ANCP2021&theme=radical&hide_border=true&background=0D1117&title=GitHub%20Streak&title_color=4A90E2&text_color=FFFFFF&ring=4A90E2&fire=4A90E2&currStreakNum=4A90E2&currStreakLabel=FFFFFF&sideNums=4A90E2&sideLabels=FFFFFF&dates=4A4A4A" alt="GitHub Streak">
-</div>
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ANCP2021&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=4A90E2&text_color=FFFFFF&icon_color=4A90E2&title=GitHub%20Statistics" alt="GitHub Stats">
-</div>
-
-<div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ANCP2021&theme=react-dark&hide_border=true&bg_color=0D1117&color=4A90E2&line=4A90E2&point=FFFFFF&title=Contribution%20Activity" alt="Contribution Graph">
 </div>
 
