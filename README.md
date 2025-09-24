@@ -54,10 +54,3 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
 </div>
-
-## GitHub Contributions
-
-<div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ANCP2021&theme=radical&hide_border=true&background=0D1117&title=GitHub%20Streak&title_color=4A90E2&text_color=FFFFFF&ring=4A90E2&fire=4A90E2&currStreakNum=4A90E2&currStreakLabel=FFFFFF&sideNums=4A90E2&sideLabels=FFFFFF&dates=4A4A4A" alt="GitHub Streak">
-</div>
-
